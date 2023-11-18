@@ -2,3 +2,4 @@ transformers
 accelerate
 datasets
 unidecode
+scikeras
