@@ -3,3 +3,4 @@ accelerate
 datasets
 unidecode
 scikeras
+cuda
